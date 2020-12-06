@@ -7,8 +7,8 @@ It is simply named after the ingame player KumoKumo.
 
 ## Pack opening
 Command and examples: 
-*kumocat open (amount) (packname)*
-*kumocat open 50 petaldream crystal*
+*kumocat open (amount) (packname)*  
+*kumocat open 50 petaldream crystal*  
 *kumocat open 200 x pack*
 
 ![KumoCat opening packs](https://i.imgur.com/Tn0OYbL.png)
