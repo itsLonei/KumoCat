@@ -6,14 +6,17 @@ What does KumoCat mean?
 It is simply named after the ingame player KumoKumo.
 
 ## Pack opening
-Command: 
-**Kumocat open (amount) (packname)**
+Command and examples: 
+*kumocat open (amount) (packname)*
+*kumocat open 50 petaldream crystal*
+*kumocat open 200 x pack*
 
-Example:
--
+![KumoCat opening packs](https://i.imgur.com/Tn0OYbL.png)
 
 Virtually opens packs of your choice.
 Check the droprates of the packs and see what kind of loot you would've gotten.
+
+Kumocat will not open more than 10,000 packs at the same.
 
 ### Can KumoCat open any type of loot pack?
 No, currently only two different loot packs including those loot packs that may drop from those.
